@@ -22,7 +22,7 @@ This is a simple Word Riddle game where players have to guess a word based on hi
 ## Preview
 
 ![image](https://github.com/tejAspire/guess_the_word/assets/107415369/7b677a7f-155b-43ac-b6de-6ca7a14d60f9)
-![image](https://github.com/tejAspire/guess_the_word/assets/107415369/bb58d7b4-bfad-4ff5-96d4-7a1ce376f121)
+![image](https://github.com/tejAspire/guess_the_word/assets/107415369/4284d917-d180-4320-886c-7aafcc6813a8)
 ![image](https://github.com/tejAspire/guess_the_word/assets/107415369/5466528b-d2ec-44f8-b43e-56bc35d0b4a9)
 
 
@@ -38,5 +38,5 @@ TEJAS.S
 
 ## License
 
-This project is licensed under the Tejas License 
+This project is licensed under the Tejas 
 
