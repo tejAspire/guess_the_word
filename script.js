@@ -10,6 +10,15 @@ wrpper=document.getElementsByClassName("wrapper");
 //input=document.getElementsByClassName("inputs");
 
 let word, maxGuesses, incorrectLetters = [], correctLetters = [];
+document.addEventListener("visibilitychange",function(){
+    if(document.hidden){
+        document.title = "You're not looking at me!";
+        #favi.src="https://icons8.com/icon/678/sad";
+    }
+    else{
+        document.title="Word Riddle";
+
+    }
 
 function randomWord() {
     
